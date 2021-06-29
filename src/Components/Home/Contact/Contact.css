@@ -1,0 +1,23 @@
+.contact-sec{
+    background-color: #3a4456;
+    padding: .5rem;
+    padding-bottom: 5rem;
+}
+#email, #subject{
+    padding: 10px;
+    width: 28.8rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
+#textarea{
+    border-radius: 5px;
+    padding: 10px;
+    outline: none;
+    border: none;
+}
+.submit{
+    width:10rem
+
+}

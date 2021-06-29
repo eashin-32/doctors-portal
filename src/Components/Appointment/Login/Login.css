@@ -1,0 +1,16 @@
+.login-form{
+    height:100vh;
+}
+.form{
+    padding: 120px 0 0 70px;
+}
+.form input{
+    width: 30rem;
+}
+.login-page{
+    overflow: hidden !important;
+    
+}
+#root{
+    overflow: hidden !important;
+}
